@@ -5,12 +5,12 @@ This project is aimed at securely managing, streamlining, and analyzing structur
 
 Project Goals:
 
-Data Ingestion: Develop a mechanism to ingest data from diverse sources.
-ETL System: Transform raw data into the proper format for analysis.
-Data Lake: Establish a centralized repository to store data from multiple sources.
-Scalability: Ensure the system can scale with increasing data size.
-Cloud Integration: Utilize AWS for processing vast amounts of data efficiently.
-Reporting: Create a dashboard for obtaining insights from the collected data.
+1) Data Ingestion: Develop a mechanism to ingest data from diverse sources.
+2) ETL System: Transform raw data into the proper format for analysis.
+3) Data Lake: Establish a centralized repository to store data from multiple sources.
+4) Scalability: Ensure the system can scale with increasing data size.
+5) Cloud Integration: Utilize AWS for processing vast amounts of data efficiently.
+6) Reporting: Create a dashboard for obtaining insights from the collected data.
 
 Services Used:
 Amazon S3: Object storage service providing scalability, data availability, security, and performance.
